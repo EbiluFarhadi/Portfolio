@@ -13,7 +13,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+        The Oglo team is dedicated to empowering companies and VIP developers to elevate their development projects to the next level. We specialize in crafting exceptional apps with outstanding UX/UI design, ensuring an unparalleled user experience .
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>

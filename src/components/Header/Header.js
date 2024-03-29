@@ -8,9 +8,9 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyle
 const Header = () =>  (
   <Container>
     <Div1>
-      <Link href="/">
+      <Link href="/" >
         <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-          <DiCssdeck size="3rem" /> <span>Portfolio</span>
+          <DiCssdeck size="3rem" /> <span>Oglo</span>
         </a>
       </Link>
     </Div1>
@@ -32,7 +32,7 @@ const Header = () =>  (
       </li>        
     </Div2>
       <Div3>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://github.com/EbiluFarhadi">
           <AiFillGithub size="3rem" />
         </SocialIcons>
         <SocialIcons href="https://google.com">

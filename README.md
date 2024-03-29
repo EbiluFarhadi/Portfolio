@@ -1,17 +1,10 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
-
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### [🌟 Unlock your digital potential—let's create something extraordinary together. Contact me now ](https://github.com/EbiluFarhadi/Portfolio)
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
+Hey, I'm Ebrahim. With over 4 years of experience, I've mastered the art of web development. I specialize in turning your ideas into captivating digital experiences, powered by Next.js. My expertise lies in crafting high-performance, accessible, and SEO-friendly websites that exceed expectations and leave a lasting impression.
 
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
 
-Setup:
-- run ```npm i && npm start```
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+## Launch your development career with project-based coaching - https://oglo.netlify.app/

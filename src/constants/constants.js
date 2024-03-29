@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Bionicmaster',
+    description: "Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general .",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Vite', 'Tailwind', 'React', 'animations'],
+    source: 'https://github.com/EbiluFarhadi/bionicmaster',
+    visit: 'https://bionic-ai.netlify.app/',
     id: 0,
   },
   {
@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Started my journey by Django with Python', },
+  { year: 2001, text: 'Worked as a Web development', },
+  { year: 2022, text: 'Founded JavaScript Mastery', },
+  { year: 2023, text: 'Full stack with Next.js', },
+  { year: 2024, text: 'Started my own platform', },
 ];
